@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Website Animate On Scroll",
   "main": "index.js",
-  "homepage": "https://mjadar.github.io/portfolio",
+  "homepage": "https://mjadar.github.io/paintings_gallery",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
