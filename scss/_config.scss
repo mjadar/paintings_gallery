@@ -1,0 +1,8 @@
+//Media Query Mixins
+
+//phone & tablets
+@mixin mediaMd {
+  @media (max-width: 750px) {
+    @content;
+  }
+}

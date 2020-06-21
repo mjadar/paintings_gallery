@@ -1,0 +1,12 @@
+//Responsiveness
+
+@include mediaMd {
+  .card {
+    display: grid;
+    grid-template-columns: 1fr;
+
+    &:nth-child(even) div {
+      order: 2;
+    }
+  }
+}
